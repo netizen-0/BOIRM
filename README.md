@@ -22,7 +22,7 @@ A powerful Telegram moderation bot that mutes users based on bio content (like l
 
 ### 🔵 Heroku (One-Click)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/WRITERDRO/BIOLINK)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/netizen-0/BOIRM)
 
 > Fill in the required variables during deployment.
 
